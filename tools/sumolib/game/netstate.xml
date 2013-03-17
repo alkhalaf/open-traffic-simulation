@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+
+<!-- generated on 20/01/2013 13:08:41 by SUMO gui Version 0.16.0
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.sf.net/xsd/sumo-gui.exeConfiguration.xsd">
+
+    <input>
+        <net-file value="C:\Users\macromania\Downloads\sumo-winbin-0.16.0\sumo-0.16.0\tools\game\cross/cross.net.xml"/>
+        <route-files value="C:\Users\macromania\Downloads\sumo-winbin-0.16.0\sumo-0.16.0\tools\game\cross/cross.rou.xml"/>
+        <additional-files value="C:\Users\macromania\Downloads\sumo-winbin-0.16.0\sumo-0.16.0\tools\game\input_additional.add.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="180"/>
+        <step-length value=".2"/>
+    </time>
+
+    <gui_only>
+        <gui-settings-file value="C:\Users\macromania\Downloads\sumo-winbin-0.16.0\sumo-0.16.0\tools\game\cross/cross.settings.xml"/>
+    </gui_only>
+
+</configuration>
+-->
+
+<netstats>
+</netstats>
